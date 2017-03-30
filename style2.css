@@ -1,0 +1,310 @@
+body{
+	min-width: 1200px;
+	background: #FFEBCD	;
+}
+#parunakutyun{
+    overflow: auto;
+    max-width: 1000px;
+    margin: auto;
+}
+
+#gunavorum{
+	width: 600px;
+	height: 750px;
+	float: left;
+	
+}
+
+#marduk{
+    width: 400px;
+    float: right;
+}   
+
+#color{
+	color: blue;
+}
+
+
+
+
+#mazer{
+	width: 200px;
+	height: 150px;
+	background: yellow;
+	-moz-border-radius: 100px / 75px;
+	-webkit-border-radius: 100px / 75px;
+	border-radius: 100px / 75px;
+	position: fixed;
+}
+
+#glux{
+	width: 140px;
+	height: 170px;
+	background:  #333300;
+	margin-top: 50px;
+	margin-left: 30px;
+	border-radius: 0px 0px 80px 80px;
+    position: fixed;
+}
+
+#dzaxAjq{
+	height: 30px;
+	width: 30px;
+    border-radius: 100%;
+    background: white;
+    margin-left: 25px;
+    margin-top: 40px;
+    position: fixed;
+}
+
+#dzaxAjqKlor{
+	height: 16px;
+	width: 16px;
+	margin: auto;
+	background: blue;
+	border-radius: 100%;
+	margin-top: 7px;
+}
+
+#ajAjq{
+	height: 40px;
+	width: 40px;
+    border-radius: 100%;
+    background: white;
+    margin-left: 80px;
+    margin-top: 35px;
+    position: fixed;
+}
+
+#ajAjqKlor{
+	height: 16px;
+	width: 16px;
+	margin: auto;
+	margin-top: 12px;
+	background: blue;
+	border-radius: 100%;
+	
+}
+
+#qit{
+   width: 24px;
+   height: 50px;
+   background-color: green;
+   -webkit-border-radius: 15px 15px 15px 15px / 40px 40px 16px 16px;
+   border-radius:         50%  50%  50%  50%  / 60%   60%   40%  40%;
+   margin-left: 58px;
+   margin-top: 55px;
+   border: 1px solid;
+   border-color: grey;
+}
+
+#beran{
+	width: 50px;
+	height: 30px;
+	border-radius: 10px 10px 0px 0px;
+	background: red;
+	margin-left: 45px;
+	margin-top: 5px;
+	position: fixed;
+}
+
+#atam{
+	width: 7px;
+	height: 10px;
+	background: white;
+	margin-left: 10px;
+}
+
+#atam2{
+	width: 5px;
+	height: 10px;
+	background: white;
+	margin-left: 30px;
+	margin-top: 10px;
+}
+
+#marmin{
+   
+   width: 126px;
+   height: 180px;
+   background-color: #ccff33;
+   -webkit-border-radius: 63px 63px 63px 63px / 108px 108px 72px 72px;
+   border-radius:         50%  50%  50%  50%  / 60%   60%   40%  40%;
+   margin-top: 220px;
+   margin-left: 37px;
+   position: fixed;
+}
+
+#dzaxVot{
+	width: 30px;
+	height: 100px;
+	border-radius: 15px 10px 0px 30px;
+	background:  #333300;
+	margin-left: 30px;
+	margin-top: 370px;
+	position: fixed;
+}
+
+#ajVot{
+    width: 30px;
+	height: 100px;
+	border-radius: 10px 15px 30px 0px;
+	background:  #333300;
+	margin-left: 140px;
+	margin-top: 370px;
+	position: fixed;
+}
+
+#dzaxKed{
+	height: 30px;
+	width: 70px;
+	background: #3366cc;
+	border-radius: 15px 25px 0px 0px;
+	margin-top: 460px;
+	position: fixed;
+}
+
+#ajKed{
+	height: 30px;
+	width: 70px;
+	background: #3366cc;
+	border-radius: 25px 15px 0px 0px;
+	margin-top: 460px;
+	margin-left: 130px;
+	position: fixed;
+}
+
+#dzaxTev{
+	height: 20px;
+	width: 70px;
+	border-radius: 0px 15px 15px 18px;
+	margin-top: 230px;
+	background:  #333300;
+	position: fixed;
+}
+
+#ajTev{
+	height: 20px;
+	width: 80px;
+	border-radius: 15px 0px 18px 15px;
+	margin-top: 230px;
+	margin-left: 130px;
+	background:  #333300;
+	position: fixed;
+}
+
+
+
+#HairTver{
+	height: 38px;
+	width: 400px;
+	font-size: 18.5px;
+	border-style: solid;
+	border-radius: 5px 5px;
+	border-color: #98979c;
+    border-width: 1px;
+    margin-top: 10px;
+}
+#RaceTver{
+	height: 38px;
+	width: 400px;
+	font-size: 18.5px;
+	border-style: solid;
+	border-radius: 5px 5px;
+	border-color: #98979c;
+    border-width: 1px;
+    margin-top: 10px;
+}
+#ClothesTver{
+	height: 38px;
+	width: 400px;
+	font-size: 18.5px;
+	border-style: solid;
+	border-radius: 5px 5px;
+	border-color: #98979c;
+    border-width: 1px;
+    margin-top: 10px;
+}
+#EyesTver{
+	height: 38px;
+	width: 400px;
+	font-size: 18.5px;
+	border-style: solid;
+	border-radius: 5px 5px;
+	border-color: #98979c;
+    border-width: 1px;
+    margin-top: 10px;
+}
+#KedsTver{
+	height: 38px;
+	width: 400px;
+	font-size: 18.5px;
+	border-style: solid;
+	border-radius: 5px 5px;
+	border-color: #98979c;
+    border-width: 1px;
+    margin-top: 10px;
+}
+button{
+	height: 38px;
+	width: 70px;
+	font-size: 18.5px;
+	border-style: solid;
+	border-radius: 5px 5px;
+	border-color: #98979c;
+    border-width: 1px;
+    margin-top: 10px;
+}
+
+#cank{
+	height: 38px;
+	width: 70px;
+	font-size: 18.5px;
+	border-style: solid;
+	border-radius: 5px 5px;
+	border-color: #98979c;
+    border-width: 1px;
+    margin-top: 20px;
+}
+
+
+
+#xosq{
+   width: 150px;
+   height: 80px;
+   background: #66ff33;
+   position: relative;
+   -moz-border-radius:    10px;
+   -webkit-border-radius: 10px;
+   border-radius:         10px;
+   margin-left: 220px;
+   margin-top: 150px;
+   font-size: 16px;
+}
+
+#xosq:before {
+   content:"";
+   position: absolute;
+   right: 100%;
+   top: 26px;
+   width: 0;
+   height: 0;
+   border-top: 13px solid transparent;
+   border-right: 26px solid #66ff33;
+   border-bottom: 13px solid transparent;
+}
+
+
+#hamak{
+	font-size: 25px;
+}
+
+
+#anun{
+	font-size: 50px;
+}
+
+#hushum{
+	font-size: 20px;
+	margin-top: 60px;
+}
